@@ -54,6 +54,7 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
+
 Jag har hämtat projektet från den lokala repot och skapat en isolerad Python-miljö (.venv) för att installera alla beroenden från "requirements.txt".
 
 Därefter körde jag testerna för att kontrollera att allt fungerade som förväntat. Resultatet blev 5 godkända tester.
@@ -61,6 +62,6 @@ Därefter körde jag testerna för att kontrollera att allt fungerade som förv�
 Efter har jag kört API:et och testat Swagger UI med funktionen Try it out -> Execute.
 
 Sedan skapade jag en egen Git-branch för att kunna utveckla och testa ändringar separat från huvudbranchen (main), utan att påverka den.
-Bransch som skapades: "demo/dag1-git-student"
+Bransch som skapades: "demo/dag1-git-student".
 
 Om vi hoppar över detta steg riskerar vi att blanda våra ändringar med den lokala repot. Det kan göra det svårare att samarbeta, granska ändringar och upptäcka fel innan de förs in i huvudbranchen.
