@@ -54,7 +54,6 @@ Repositoryt är byggt för att kunna användas stegvis:
 ## Viktig fråga i varje steg
 
 > Vilket problem löser detta steg, och vad riskerar vi om steget saknas?
-
 Jag har hämtat projektet från den lokala repot och skapat en isolerad Python-miljö (.venv) för att installera alla beroenden från "requirements.txt".
 
 Därefter körde jag testerna för att kontrollera att allt fungerade som förväntat. Resultatet blev 5 godkända tester.
