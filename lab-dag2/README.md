@@ -1,0 +1,1 @@
+CI-övning: en Pull Request startar automatiska kontroller.
